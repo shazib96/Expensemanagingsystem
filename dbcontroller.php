@@ -1,6 +1,5 @@
 <?php
 
-// Script By Akash Mondal
 
 class DBController {
 	private $host = "localhost";
