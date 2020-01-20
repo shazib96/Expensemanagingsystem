@@ -1,6 +1,5 @@
 <?php
 
-// Script By Akash Mondal
 
 $servername = "localhost";
 $username = "root";
